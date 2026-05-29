@@ -1,1 +1,5 @@
 instructions on how to use WebAppTest
+
+Agentic AI with Gemini 
+Gemini 3.0  Pro is the context gaint. Google's strength lies in its massive context window
+and native multimodularity.  It is amazing at  handling context.
